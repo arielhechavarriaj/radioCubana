@@ -73,9 +73,6 @@ Esto generará el archivo frontend/src/data/radios.ts con los datos más recient
 ## 👨‍💻 Autor
 
 **Ariel Hechavarria Jardines**
-- GitHub: [@tugithub](https://github.com/tugithub)
-- Twitter: [@tuhandle](https://twitter.com/tuhandle)
-- LinkedIn: [Tu Perfil](https://www.linkedin.com/in/ariel-hechavarria-jardines/)
 - Email: [leiraStudio@gmail.com](mailto:leiraStudio@gmail.com)
 
 Si te gusta este proyecto, ¡no dudes en contactarme o contribuir!
