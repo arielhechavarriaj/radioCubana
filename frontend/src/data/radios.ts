@@ -1,0 +1,431 @@
+// Generado automáticamente el 25/2/2026, 4:36:30 p.m.
+import { Radio } from '../types/radio';
+
+export const radios: Radio[] = [
+  {
+    "id": "radio-1",
+    "title": "La Habana",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.cu/g73XCjCH",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Radio_Habana_Cuba.svg/langes-330px-Radio_Habana_Cuba.svg.png",
+    "description": "Radio Habana Cuba es la emisora internacional más famosa de Cuba, que empezó a emitir el 1 de mayo de 1961 con el nombre de \"Onda Corta Experimental de Cuba\".",
+    "province": "Radio Ciudad de La Habana"
+  },
+  {
+    "id": "radio-3",
+    "title": "Artemisa",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.cu/9HzjRcjX",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Artemisa_in_Cuba.svg/langes-330px-Artemisa_in_Cuba.svg.png",
+    "description": "La Provincia de Artemisa es una provincia cubana establecida a partir del 1 de enero de 2011, derivada de la división de la antigua provincia de La Habana en las actuales Artemisa y Mayabeque. La provincia de Artemisa comprende la mitad occidental de la extinta La Habana (1976-2010) más tres municipios contiguos provenientes de la Provincia de Pinar del Río. La capital es la ciudad de Artemisa, que fue el mayor municipio en extensión y población de la antigua provincia de La Habana.",
+    "province": "Radio Artemisa"
+  },
+  {
+    "id": "radio-4",
+    "title": "Mayabeque",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.cu/Rsrm7P9h",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://www.ecured.cu/images/8/87/Radiomayab.jpg",
+    "description": "Radio Mayabeque es una emisora provincial de radio, ubicada en el municipio Güines, de la provincia de Mayabeque (Cuba). Es un medio de comunicación promotor de la cultura popular, del rescate de tradiciones culturales y defensora de la identidad del pueblo.",
+    "province": "Radio Mayabeque"
+  },
+  {
+    "id": "radio-8",
+    "title": "Sancti Spíritus",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.cu/NqWrgw7j",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://ui-avatars.com/api/?name=Sancti%20Sp%C3%ADritus&background=random&length=2&size=128",
+    "description": "Radio Sancti Spiritus (CMGL). Radio emisora provincial del municipio Sancti Spiritus perteneciente a la provincia homónima.",
+    "province": "Radio Sancti Spiritus"
+  },
+  {
+    "id": "radio-10",
+    "title": "Camagüey",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.cu/3gnbjHVF",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://www.ecured.cu/images/1/10/Cubitasradio.png",
+    "description": "Emisora Radio Cubitas, Emisora de radio local municipio Sierra de Cubitas",
+    "province": "Radio Cadena Agramonte"
+  },
+  {
+    "id": "radio-13",
+    "title": "Granma",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.cu/9RLhkmRH",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://www.ecured.cu/images/thumb/6/68/Logo_Emisora.png/260px-Logo_Emisora.png",
+    "description": "Emisora Radio Granma Refleja todo el acontecer del territorio y tiene una variada programación.",
+    "province": "Radio Bayamo"
+  },
+  {
+    "id": "radio-18",
+    "title": "Radio Rebelde",
+    "category": "NACIONAL",
+    "audioUrl": "https://icecast.teveo.cu/zrXXWK9F",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://www.ecured.cu/images/8/81/FIdel_en_R._Rebelde.jpg",
+    "description": "Radio Rebelde. Emisora de radio cubana nacida en el fragor del combate por la definitiva liberación de Cuba. Fundada por Ernesto Che Guevara el 24 de febrero de 1958, desde entonces ha mantenido su ascendencia y prestigio en el pueblo cubano."
+  },
+  {
+    "id": "radio-19",
+    "title": "Radio Reloj",
+    "category": "NACIONAL",
+    "audioUrl": "https://icecast.teveo.cu/b3jbfThq",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://www.ecured.cu/images/8/83/Radio_reloj_logo.png",
+    "description": "Radio Reloj. Única emisora cubana que difunde las noticias y la hora cada minuto, durante las 24 horas del día, completamente en vivo."
+  },
+  {
+    "id": "radio-20",
+    "title": "Radio Progreso",
+    "category": "NACIONAL",
+    "audioUrl": "https://icecast.teveo.cu/XjfW7qWN",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://ui-avatars.com/api/?name=Radio%20Progreso&background=random&length=2&size=128",
+    "description": "Autor Radio Cubana Portal Institucional y sitio oficial de la Radio Cubana en Internet. Fundado el 14 de marzo de 2006. Ver todas las entradas"
+  },
+  {
+    "id": "radio-21",
+    "title": "CMBF Radio Musical Nacional",
+    "category": "NACIONAL",
+    "audioUrl": "https://icecast.teveo.cu/Nbtz7HT3",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://www.ecured.cu/images/thumb/8/80/CMBFradio.jpg/260px-CMBFradio.jpg",
+    "description": "Matanzas 93.7FM / 1400AM"
+  },
+  {
+    "id": "radio-22",
+    "title": "Radio Enciclopedia",
+    "category": "NACIONAL",
+    "audioUrl": "https://icecast.teveo.cu/4XcL3hMp",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://www.ecured.cu/images/thumb/b/b1/Post_de_radio_enciclopedia.jpg/260px-Post_de_radio_enciclopedia.jpg",
+    "description": "Salón, PR 102.3MHz FM"
+  },
+  {
+    "id": "radio-23",
+    "title": "Radio Taíno",
+    "category": "NACIONAL",
+    "audioUrl": "https://icecast.teveo.cu/3MCwWg3V",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://www.ecured.cu/images/thumb/7/74/Logo_Radio_Taino.png/260px-Logo_Radio_Taino.png",
+    "description": "Radio Taíno. Radio Taíno es una Cadena Nacional que transmite exclusivamente en Frecuencia Modulada (FM). Su perfil es cultural recreativo y su programación se encamina hacia un destinatario general, aunque hace énfasis en el turismo. La programación esta integrada por 34 espacios, y se distingue por el predominio de la radiorevista o magazín en vivo, combinado con otros programas de carácter variado. Las funciones predominantes en su programación son las recreativas, culturales e informativas."
+  },
+  {
+    "id": "radio-24",
+    "title": "Radio Habana Cuba",
+    "category": "NACIONAL",
+    "audioUrl": "https://icecast.teveo.cu/McW3fLhs",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://www.ecured.cu/images/thumb/c/c9/Aracuba.jpg/260px-Aracuba.jpg",
+    "description": "Radio Baracuba. Está ubicada en calle 2da  % paseo y n, Consejo Popular Gaspar, Municipio Baraguá, Provincia Ciego de Ávila, Cuba. Apoya a la Emisora Radio Surco en Ciego de Ávila. Con su inmediatez logra mantener actualizada a la población en el acontecer diario."
+  },
+  {
+    "id": "radio-28",
+    "title": "Radio Titán",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.cu/nXwsVz4N",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://www.ecured.cu/images/thumb/0/06/Radio_ttan.jpg/260px-Radio_ttan.jpg",
+    "description": "CMJE Radio Titán. Emisora radial cubana,  en el municipio Mella. Se conoce con el eslogan la señal que se filtra en la dulzura de la caña."
+  },
+  {
+    "id": "radio-29",
+    "title": "Radio Victoria de Girón",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.cu/cgMTxX9V",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://www.ecured.cu/images/thumb/c/c5/Radio_victoria_de_Gir%C3%B3n_de_jag%C3%BCey_Grande.jpg/300px-Radio_victoria_de_Gir%C3%B3n_de_jag%C3%BCey_Grande.jpg",
+    "description": "Radio Victoria de Girón es una emisora jagüeyense de alcance medio la cual trasmite por la 93.7 Mhz y 95.3 Mzh de la FM. Inaugurada el 8 de septiembre de 1977, surgió como una emisora estudiantil destinada a los miles de becarios del Plan de Escuelas en el Campo de Jagüey Grande, en las proximidades del Instituto Politécnico Agropecuario Cesar Escalante."
+  },
+  {
+    "id": "radio-30",
+    "title": "Radio Morón",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.cu/jJ4JV3FK",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://ui-avatars.com/api/?name=Radio%20Mor%C3%B3n&background=random&length=2&size=128",
+    "description": "Autor Radio Cubana Portal Institucional y sitio oficial de la Radio Cubana en Internet. Fundado el 14 de marzo de 2006. Ver todas las entradas"
+  },
+  {
+    "id": "radio-31",
+    "title": "Radio Granma",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.cu/9RLhkmRH",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://www.ecured.cu/images/thumb/6/68/Logo_Emisora.png/260px-Logo_Emisora.png",
+    "description": "Emisora Radio Granma Refleja todo el acontecer del territorio y tiene una variada programación."
+  },
+  {
+    "id": "radio-32",
+    "title": "Radio Baraguá",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.cu/3CMM7zph",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://ui-avatars.com/api/?name=Radio%20Baragu%C3%A1&background=random&length=2&size=128",
+    "description": "Autor Radio Cubana Portal Institucional y sitio oficial de la Radio Cubana en Internet. Fundado el 14 de marzo de 2006. Ver todas las entradas"
+  },
+  {
+    "id": "radio-33",
+    "title": "Radio Varadero",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.cu/jWCmP3Fj",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://ui-avatars.com/api/?name=Radio%20Varadero&background=random&length=2&size=128",
+    "description": "Autor Radio Cubana Portal Institucional y sitio oficial de la Radio Cubana en Internet. Fundado el 14 de marzo de 2006. Ver todas las entradas"
+  },
+  {
+    "id": "radio-34",
+    "title": "Radio Amanecer",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.cu/HpM9FCwR",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://www.ecured.cu/images/thumb/5/5a/Radio_amanecer.JPG/300px-Radio_amanecer.JPG",
+    "description": "Radio Amanecer, es la emisora radial del municipio Primero de Enero, provincia de Ciego de Ávila, en Cuba. Su señal es fiel promotora de la cultura popular, así como de las tradiciones y costumbres de quienes habitan en este territorio de victorias. Su principal misión es reflejar los rasgos socioculturales de la población, a través de una programación, amena, instructiva y recreativa, donde la música y la información constituyen los elementos vitales de sus transmisiones."
+  },
+  {
+    "id": "radio-36",
+    "title": "Radio Majaguabo",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.icrt.cu/7P4nbVPK",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://www.ecured.cu/images/thumb/8/8b/Post_de_radio_majayawo.jpg/260px-Post_de_radio_majayawo.jpg",
+    "description": "Radio Majaguabo. Emisora radial cubana, ubicada en el Municipio San Luis, provincia Santiago de Cuba dedicada a la difusión del variado acontecer del territorio sanluisero."
+  },
+  {
+    "id": "radio-37",
+    "title": "Radio Caibarién",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.icrt.cu/srJ4vqkv",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://ui-avatars.com/api/?name=Radio%20Caibari%C3%A9n&background=random&length=2&size=128",
+    "description": "Autor Radio Cubana Portal Institucional y sitio oficial de la Radio Cubana en Internet. Fundado el 14 de marzo de 2006. Ver todas las entradas"
+  },
+  {
+    "id": "radio-38",
+    "title": "Radio Esmeralda",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.cu/NnvHhH9z",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://www.ecured.cu/images/a/a5/Radio_Esmeralda.jpg",
+    "description": "Radio Esmeralda, es la emisora del municipio del mismo nombre, ubicado al norte de la provincia de Camagüey en Cuba. En sus inicios formó parte del programa de fundación de emisoras de nuevo tipo, que dotó al territorio nacional de nuevas estaciones, donde sus trabajadores tenían la titánica tarea de desempeñarse como hombres-radio. De ahí surgió un colectivo que defiende hoy, desde las ondas, la genial obra de la Revolución Cubana y transmite a su pueblo el acontecer de los esmeraldenses. Comenzó sus transmisiones con 2 horas de emisión, luego incrementaron a 3 y en la actualidad se mantienen durante 6 horas al aire. Desde enero de 2016 pasó a formar parte del grupo de emisoras tradicionales del país."
+  },
+  {
+    "id": "radio-39",
+    "title": "Radio Jiguaní",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.cu/nkz3TCfR",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://ui-avatars.com/api/?name=Radio%20Jiguan%C3%AD&background=random&length=2&size=128",
+    "description": "Autor Radio Cubana Portal Institucional y sitio oficial de la Radio Cubana en Internet. Fundado el 14 de marzo de 2006. Ver todas las entradas"
+  },
+  {
+    "id": "radio-40",
+    "title": "Radio 8SF",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.cu/gFnFt4qK",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://ui-avatars.com/api/?name=Radio%208SF&background=random&length=2&size=128",
+    "description": "Autor Radio Cubana Portal Institucional y sitio oficial de la Radio Cubana en Internet. Fundado el 14 de marzo de 2006. Ver todas las entradas"
+  },
+  {
+    "id": "radio-41",
+    "title": "Radio Arimao",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.icrt.cu/4fNcwkpC",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://ui-avatars.com/api/?name=Radio%20Arimao&background=random&length=2&size=128",
+    "description": "Autor Radio Cubana Portal Institucional y sitio oficial de la Radio Cubana en Internet. Fundado el 14 de marzo de 2006. Ver todas las entradas"
+  },
+  {
+    "id": "radio-42",
+    "title": "Radio Camagüey",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.cu/3gnbjHVF",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://www.ecured.cu/images/1/10/Cubitasradio.png",
+    "description": "Emisora Radio Cubitas, Emisora de radio local municipio Sierra de Cubitas"
+  },
+  {
+    "id": "radio-45",
+    "title": "Radio Vertientes",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.icrt.cu/7mw4Jvfh",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://ui-avatars.com/api/?name=Radio%20Vertientes&background=random&length=2&size=128",
+    "description": "Autor Radio Cubana Portal Institucional y sitio oficial de la Radio Cubana en Internet. Fundado el 14 de marzo de 2006. Ver todas las entradas"
+  },
+  {
+    "id": "radio-46",
+    "title": "Radio La Voz del Níquel",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.cu/nj4PLTHR",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://ui-avatars.com/api/?name=Radio%20La%20Voz%20del%20N%C3%ADquel&background=random&length=2&size=128",
+    "description": "Autor Radio Cubana Portal Institucional y sitio oficial de la Radio Cubana en Internet. Fundado el 14 de marzo de 2006. Ver todas las entradas"
+  },
+  {
+    "id": "radio-47",
+    "title": "Radio Maisí, La Voz del Sol",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.icrt.cu/3xW3qJdm",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://ui-avatars.com/api/?name=Radio%20Mais%C3%AD%2C%20La%20Voz%20del%20Sol&background=random&length=2&size=128",
+    "description": "Autor Radio Cubana Portal Institucional y sitio oficial de la Radio Cubana en Internet. Fundado el 14 de marzo de 2006. Ver todas las entradas"
+  },
+  {
+    "id": "radio-48",
+    "title": "Radio Camoa",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.cu/7vCk4tnh",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://ui-avatars.com/api/?name=Radio%20Camoa&background=random&length=2&size=128",
+    "description": "Autor Radio Cubana Portal Institucional y sitio oficial de la Radio Cubana en Internet. Fundado el 14 de marzo de 2006. Ver todas las entradas"
+  },
+  {
+    "id": "radio-49",
+    "title": "Radio Jatibonico",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.cu/hW7WL4v9",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://ui-avatars.com/api/?name=Radio%20Jatibonico&background=random&length=2&size=128",
+    "description": "Autor Radio Cubana Portal Institucional y sitio oficial de la Radio Cubana en Internet. Fundado el 14 de marzo de 2006. Ver todas las entradas"
+  },
+  {
+    "id": "radio-50",
+    "title": "Radio Maboas",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.cu/9rbrvFpg",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://www.ecured.cu/images/thumb/d/d2/Emisora_radio_Maboas.JPG/225px-Emisora_radio_Maboas.JPG",
+    "description": "Emisora Radio  Maboas, La joven emisora de Amancio que transforma su programación a partir de la realidad del municipio. Defender las jerarquías culturales, destacando la cubanía y los elementos propios de la localidad."
+  },
+  {
+    "id": "radio-51",
+    "title": "Radio Ecos de Sagua",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.cu/3vfVjmNm",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://www.ecured.cu/images/8/87/SaguaT.jpeg",
+    "description": "Emisora Radio Ecos de Sagua. El año 1995 marca un hito importante para Sagua de Tánamo, pues el 17 de diciembre sale al éter la Emisora Radio Ecos de Sagua, planta radial que asumiría la responsabilidad de mostrar los avances del municipio y en especial de los habitantes del Plan Turquino, sector que ocupa  cerca del 85 por ciento  del territorio."
+  },
+  {
+    "id": "radio-52",
+    "title": "Radio Fomento",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.cu/XzFz3xdK",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://ui-avatars.com/api/?name=Radio%20Fomento&background=random&length=2&size=128",
+    "description": "Autor Radio Cubana Portal Institucional y sitio oficial de la Radio Cubana en Internet. Fundado el 14 de marzo de 2006. Ver todas las entradas"
+  },
+  {
+    "id": "radio-53",
+    "title": "Radio Jaruco",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.cu/KH9tVwrC",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://ui-avatars.com/api/?name=Radio%20Jaruco&background=random&length=2&size=128",
+    "description": "Autor Radio Cubana Portal Institucional y sitio oficial de la Radio Cubana en Internet. Fundado el 14 de marzo de 2006. Ver todas las entradas"
+  },
+  {
+    "id": "radio-54",
+    "title": "Radio Vitral",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.cu/7NgVjcqX",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://ui-avatars.com/api/?name=Radio%20Vitral&background=random&length=2&size=128",
+    "description": "Autor Radio Cubana Portal Institucional y sitio oficial de la Radio Cubana en Internet. Fundado el 14 de marzo de 2006. Ver todas las entradas"
+  },
+  {
+    "id": "radio-55",
+    "title": "Radio Chaparra",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.cu/tW3JjWph",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://ui-avatars.com/api/?name=Radio%20Chaparra&background=random&length=2&size=128",
+    "description": "Autor Radio Cubana Portal Institucional y sitio oficial de la Radio Cubana en Internet. Fundado el 14 de marzo de 2006. Ver todas las entradas"
+  },
+  {
+    "id": "radio-56",
+    "title": "Radio SG La Voz del Azúcar",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.cu/TqqKTLP9",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://ui-avatars.com/api/?name=Radio%20SG%20La%20Voz%20del%20Az%C3%BAcar&background=random&length=2&size=128",
+    "description": "Autor Radio Cubana Portal Institucional y sitio oficial de la Radio Cubana en Internet. Fundado el 14 de marzo de 2006. Ver todas las entradas"
+  },
+  {
+    "id": "radio-57",
+    "title": "Radio La voz de la Victoria",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.cu/7XPwcVbL",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://www.ecured.cu/images/6/6c/Radio_Victoria.jpg",
+    "description": "CMLL Radio Victoria es la actual emisora provincial de Las Tunas, fue fundada el 20 de septiembre de 1953 bajo el nombre de CMKT Radio Circuito. Posee una amplia y variada programación durante las 24 horas del día, orientada hacia todos los públicos desde el general hasta el infantil. Es la líder entre todas sus similares de los municipios: Radio Libertad, en Puerto Padre; Radio Maboas, en Amancio; Radio Manatí, en Manatí; Radio Chaparra en el municipio de Jesús Menéndez y Radio Cabaniguán, en Jobabo."
+  },
+  {
+    "id": "radio-58",
+    "title": "Radio La Voz del Litoral",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.cu/Nr3dhCLf",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://ui-avatars.com/api/?name=Radio%20La%20Voz%20del%20Litoral&background=random&length=2&size=128",
+    "description": "Autor Radio Cubana Portal Institucional y sitio oficial de la Radio Cubana en Internet. Fundado el 14 de marzo de 2006. Ver todas las entradas"
+  },
+  {
+    "id": "radio-59",
+    "title": "Radio Trinidad",
+    "category": "MUNICIPAL",
+    "audioUrl": "https://icecast.teveo.cu/pxPv4cWR",
+    "country": "Cuba",
+    "active": true,
+    "imageUrl": "https://ui-avatars.com/api/?name=Radio%20Trinidad&background=random&length=2&size=128",
+    "description": "Radio Trinidad. Es la emisora radial ubicada en el municipio de Trinidad, en la provincia de Sancti Spíritus, en el centro de Cuba. Surgió con el nombre inicial de Radio Cadena Sur, siendo inaugurada el 28 de diciembre de 1998, festejando el inicio de la liberación de Trinidad por las fuerzas del Ejército Rebelde el 28 de diciembre de 1958, saliendo su primera emisión a las 8 de la mañana con el programa Como lo oyes,  desde la calle José Martí, sin numero entre Lino Pérez y Crisatobal  Colón, en el antiguo local de la tienda Las Novedades."
+  }
+];
