@@ -2,6 +2,9 @@
 
 Aplicación de escritorio construida con **Wails**, **React**, **TypeScript**, **TailwindCSS** y **Zustand** para disfrutar de todas las emisoras de radio de Cuba, tanto nacionales como provinciales y municipales. Incluye un **scraper automático** que actualiza la lista de emisoras desde Wikipedia, el portal oficial de Radio Cubana y EcuRed.
 
+<img width="1913" height="1145" alt="image" src="https://github.com/user-attachments/assets/2bd09eb4-89d4-480c-a64e-63c1cdba3f72" />
+
+
 ## ✨ Características
 
 - 🎵 **Reproducción en vivo** de más de 100 emisoras cubanas.
